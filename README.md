@@ -40,11 +40,7 @@ $ > npm install
 <a href="https://ngrok.com/" traget="_blank">ngrok</a> is a reverse proxy that creates a secure tunnel from a public endpoint to a locally running web service. ngrok captures and analyzes all traffic over the tunnel for later inspection and replay.
 ![ngrok](http://res.cloudinary.com/drsedusa/image/upload/v1441640018/ngrok_tdkroh.png)
 
-You will be using ngrok to 
-
-
-
-
+You will be using ngrok to create a secure tunnel from a public endpoint which the mobile app will use to interact (basically to make an API call) with the locally running server on the Raspberry Pi.
 
 
 
