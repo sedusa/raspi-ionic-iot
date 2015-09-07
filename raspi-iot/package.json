@@ -1,0 +1,15 @@
+{
+  "name": "raspi-iot",
+  "version": "1.0.0",
+  "description": "Scripts to interact with Raspberry Pi GPIO pins",
+  "main": "raspi-led.js",
+  "dependencies": {
+      "onoff": "1.x.x"
+    },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node raspi-led.js"
+  },
+  "author": "drsedusa",
+  "license": "ISC"
+}
