@@ -8,8 +8,7 @@ I decided to create this project after I learnt about how to use Node,js to inte
 
 #Installation
 For anyone who has never played around with a Raspberry Pi here's a great <a href="https://www.raspberrypi.org/wp-content/uploads/2012/04/quick-start-guide-v2_1.pdf" target="_blank">quick start guide</a> from the official <a href="https://www.raspberrypi.org/" target="_blank">raspberrypi.org</a> website.
-The project assumes that you have a Raspberry Pi at your disposal (any of the models) and that you are able to run it 'headless' (i.e. with no keyboard or display).  
-Here is a <a href="https://www.raspberrypi.org/forums/viewtopic.php?f=91&t=74176" target="_blank">tutorial on how to setup the Raspberry Pi 'headless'</a>.
+The project assumes that you have a Raspberry Pi at your disposal (any of the models) and that you are able to run it 'headless' (i.e. with no keyboard or display).  Here is a <a href="https://www.raspberrypi.org/forums/viewtopic.php?f=91&t=74176" target="_blank">tutorial on how to setup the Raspberry Pi 'headless'</a>.
 
 ###Installing Node.JS on your Raspberry Pi
 You will need to have Node.js installed on your Raspberry Pi before proceeding with this project.  You can follow the steps in this <a href="http://weworkweplay.com/play/raspberry-pi-nodejs/" target="_blank">tutorial on how to setup Node.js on your Raspberry Pi</a> or simply type out the following commands after you ssh into your raspberry pi.
@@ -22,12 +21,13 @@ $ > sudo dpkg -i node_latest_armhf.deb
 ```
 $ > sudo apt-get install git
 ```
-After installing Git on your Pi I recommend reading you check out the <a href="http://git-scm.com/book/en/v2" target="_blank">Pro Git book</a> (by Scott Chacon and Ben Straub) to learn how to use it.
-In order to pull code from Github you will need to add your SSH key to your Github settings (after you create a Guthub account of course :-)).  You can obtain your SSH key by running the following commands in terminal on your Pi.
+After installing Git on your Pi I recommend checking out the <a href="http://git-scm.com/book/en/v2" target="_blank">Pro Git book</a> (by Scott Chacon and Ben Straub) to learn how to use it.
+In order to pull code from Github you will need to add your SSH key to your Github settings (after you create a Github account).  You can obtain your SSH key by running the following commands in the command-line on your raspberry pi.
 ```
 $ > ssh-keygen -t -rsa  
 $ > cat ~/.ssh/id_rsa.pub
 ```
+
 
 
 
