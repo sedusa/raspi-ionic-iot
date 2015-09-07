@@ -32,8 +32,9 @@ $ > cat ~/.ssh/id_rsa.pub
 Download the source code from the repository to your raspberry pi and install the modules in the package.json file
 ```
 $ > git clone https://github.com/sedusa/raspi-ionic-iot.git
+$ > cd raspi-ionic-iot/raspi-iot/
 $ > npm install 
-
+```
 
 
 
