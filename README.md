@@ -29,12 +29,18 @@ $ > cat ~/.ssh/id_rsa.pub
 ```
 
 ### Download the Github source code to the Pi
-Download the source code from the repository to your raspberry pi and install the modules in the package.json file
+Download the source code from the repository to your raspberry pi and install the modules in the package.json file.
 ```
 $ > git clone https://github.com/sedusa/raspi-ionic-iot.git
 $ > cd raspi-ionic-iot/raspi-iot/
 $ > npm install 
 ```
+
+### Installing ngrok
+<a href="https://ngrok.com/" traget="_blank">ngrok</a> is a reverse proxy that creates a secure tunnel from a public endpoint to a locally running web service. ngrok captures and analyzes all traffic over the tunnel for later inspection and replay.
+![ngrok](http://res.cloudinary.com/drsedusa/image/upload/v1441640018/ngrok_tdkroh.png)
+
+You will be using ngrok to 
 
 
 
