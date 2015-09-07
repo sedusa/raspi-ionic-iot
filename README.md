@@ -40,7 +40,17 @@ $ > npm install
 <a href="https://ngrok.com/" traget="_blank">ngrok</a> is a reverse proxy that creates a secure tunnel from a public endpoint to a locally running web service. ngrok captures and analyzes all traffic over the tunnel for later inspection and replay.
 ![ngrok](http://res.cloudinary.com/drsedusa/image/upload/v1441640018/ngrok_tdkroh.png)
 
-You will be using ngrok to create a secure tunnel from a public endpoint which the mobile app will use to interact (basically to make an API call) with the locally running server on the Raspberry Pi.
+We will be using ngrok to create a secure tunnel from a public endpoint which the ionic app will use to interact (making an API call) with the locally running server on the Raspberry Pi.
+
+To install ngrok on the raspberry pi first start by downloading the source, then unzip it.
+```
+$ > sudo wget https://dl.ngrok.com/ngrok_2.0.19_linux_arm.zip
+$ > unzip ngrok_2.0.19_linux_arm.zip
+```
+That's the whole installation process for ngrok.
+
+### Setting up the breadboard
+![breadboard](http://res.cloudinary.com/drsedusa/image/upload/v1431293181/1_r4qqw8.jpg)
 
 
 
