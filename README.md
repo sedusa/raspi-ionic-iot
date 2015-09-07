@@ -1,4 +1,4 @@
-![project logo](http://res.cloudinary.com/drsedusa/image/upload/v1441593037/raspi-ionic-logo_cs1d33.png)
+![project logo](http://res.cloudinary.com/drsedusa/image/upload/v1441593295/raspi-ionic-logo_me1nju.png)
 
 # Synopsis
 A simple IOT project using the Ionic Framework to create a simple app that turns on an LED on a breadboard connected to Raspberry Pi.
