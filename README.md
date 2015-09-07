@@ -1,3 +1,5 @@
+![project logo](http://res.cloudinary.com/drsedusa/image/upload/v1441593037/raspi-ionic-logo_cs1d33.png)
+
 # Synopsis
 A simple IOT project using the Ionic Framework to create a simple app that turns on an LED on a breadboard connected to Raspberry Pi.
 
@@ -27,7 +29,7 @@ $ > ssh-keygen -t -rsa
 $ > cat ~/.ssh/id_rsa.pub
 ```
 
-  
+
 
 
 
