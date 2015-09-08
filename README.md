@@ -52,7 +52,7 @@ That's the whole installation process for ngrok.
 ####Setting up the breadboard
 ![breadboard](http://res.cloudinary.com/drsedusa/image/upload/v1441678222/breadboard_hu1alv.png)
 
-####Running the code for the project
+####Running the code on the Raspberry Pi
 Begin by running the following command (make sure you are in the raspi-iot folder)
 ```
 $ > node raspi-led.js
@@ -64,11 +64,13 @@ Now run ngrok
 $ > ./ngrok http -subdomain=led 8088
 ```
 A console screen similar to the one below will show up
+
 ![ngrok console screen](http://res.cloudinary.com/drsedusa/image/upload/v1441679765/ngrok-screen_pndgss.png)
 
+####Running the Ionic App
+Begin by downloading the <a href="https://itunes.apple.com/us/app/ionic-view/id849930087?mt=8" target="_blank">Ionic view app from the AppStore</a> or from the <a href="https://play.google.com/store/apps/details?id=com.ionic.viewapp&hl=en" target="_blank">Google Play Store</a>
 
-
-
+Once the app is downloaded on your mobile device click on **Preview Shared App** option and enter the **App ID afb048d3**
 
 **The video below shows how the app interacts with the Raspberry Pi.**
 
