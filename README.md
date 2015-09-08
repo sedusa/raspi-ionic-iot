@@ -72,7 +72,8 @@ Begin by downloading the <a href="https://itunes.apple.com/us/app/ionic-view/id8
 
 Once the app is downloaded on your mobile device click on **Preview Shared App** option and enter the App ID **afb048d3**
 
-**The video below shows how the app interacts with the Raspberry Pi.**
+
+**Click on the video below to shows how the app interacts with the Raspberry Pi**
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=9yw8BysEuNY
 " target="_blank"><img src="http://img.youtube.com/vi/9yw8BysEuNY/0.jpg" 
