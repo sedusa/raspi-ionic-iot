@@ -50,7 +50,7 @@ $ > unzip ngrok_2.0.19_linux_arm.zip
 That's the whole installation process for ngrok.
 
 ### Setting up the breadboard
-![breadboard](http://res.cloudinary.com/drsedusa/image/upload/v1441677893/breadboard_sdbfrb.jpg)
+![breadboard](http://res.cloudinary.com/drsedusa/image/upload/v1441678222/breadboard_hu1alv.png)
 
 
 
