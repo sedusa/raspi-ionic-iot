@@ -70,7 +70,7 @@ A console screen similar to the one below will show up
 ####Running the Ionic App
 Begin by downloading the <a href="https://itunes.apple.com/us/app/ionic-view/id849930087?mt=8" target="_blank">Ionic view app from the AppStore</a> or from the <a href="https://play.google.com/store/apps/details?id=com.ionic.viewapp&hl=en" target="_blank">Google Play Store</a>
 
-Once the app is downloaded on your mobile device click on **Preview Shared App** option and enter the **App ID afb048d3**
+Once the app is downloaded on your mobile device click on **Preview Shared App** option and enter the App ID **afb048d3**
 
 **The video below shows how the app interacts with the Raspberry Pi.**
 
